@@ -1182,6 +1182,12 @@ a:not([href]):not([tabindex]):hover {
   background-color: #ffaa81;
 }
 
+/* Blue */
+.java {
+  width: 75%;
+  background-color: #ffb38e;
+}
+
 /* Red */
 .php {
   width: 45%;
