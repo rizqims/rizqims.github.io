@@ -1178,20 +1178,8 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .html {
-  width: 70%;
-  background-color: #ffaa81;
-}
-
-/* Green */
-.css {
-  width: 80%;
-  background-color: #ff905b;
-}
-
-/* Blue */
-.java {
   width: 75%;
-  background-color: #ffb38e;
+  background-color: #ffaa81;
 }
 
 /* Red */
